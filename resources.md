@@ -24,7 +24,7 @@
 
 
 
-		 Funtional and Non Functional Resources
+		## Funtional and Non Functional Resources
 
 
 
@@ -43,5 +43,13 @@
 |Product Info|Product Features  |Product Properties|
 
 * [https://www.guru99.com/functional-vs-non-functional-requirements.html](https://www.guru99.com/functional-vs-non-functional-requirements.html)
+
+* Follow below steps to understand the functional requirements : 
+	1. [Watch this video](https://www.coursera.org/lecture/client-needs-and-software-requirements/3-1-2b-functional-requirements-71RPv)
+	2. [This example on google site is a 'EZ Vicinity' Project, which explains the functional requirements of this particular project](https://sites.google.com/site/communityinfo41/home/phase-2/ph2-functional-requirements)
+
+* Follow below steps to understand the non-functional requirements : 
+	1. [Watch this video](https://www.coursera.org/lecture/client-needs-and-software-requirements/3-1-2c-non-functional-requirements-4jzCK)
+	2. [This example elaborates non functional requirements for a mobile app in restaurent business](https://medium.com/@vishwasng/non-functional-requirement-of-the-mobile-development-system-e0ed98f2a872)
 
 
